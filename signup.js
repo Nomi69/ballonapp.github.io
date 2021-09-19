@@ -51,7 +51,7 @@ let SignUp = (e) => {
                         button: "Next",
                     })
                     .then((value) => {
-                     window.location.href = "../login/login.html";
+                     window.location.href = "./login/login.html";
                     })
 
             })
